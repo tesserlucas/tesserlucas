@@ -1,9 +1,4 @@
 <h1 align="center">Olá, Eu Sou Lucas Tesser 👋</h1>
-
-<p align="center">
-  <img src="https://your-image-url.com" alt="Sua Foto" width="200">
-</p>
-
 <p align="center">
   <strong>Sobre Mim:</strong>
   <br>
@@ -16,23 +11,23 @@
   <li>LinkedIn: <a href="https://linkedin.com/in/seu-perfil">www.linkedin.com/in/
 lucas-busa-tesser-3a932a245
 </a></li>
-  <li>Twitter: <a href="https://twitter.com/seu-usuario">@seu-usuario</a></li>
+  <li>Twitter: <a href="https://twitter.com/Lucas56474078">@seu-usuario</a></li>
 </ul>
 
-<h2>🔧 Tecnologias e Ferramentas:</h2>
-<p align="center">
-  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js">
-  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React">
-</p>
-
-<h2>📈 Estatísticas do GitHub:</h2>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical" alt="Estatísticas do GitHub">
-</p>
+<h2 align="center">Languages - Frameworks - Tools</h2>
+<br/>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,html,css,figma,python,pycharm,javascript,nodejs,wordpress,windows,notion" />
+<br>
+</div>
+<h2 align="center">Statistics</h2>
+<br>
+<div align=center>
+  <img width=390 src="https://streak-stats.demolab.com/?user=tesserlucas&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  <img width=390 src="https://github-readme-stats.vercel.app/api?username=tesserlucas&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+  <br/>
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tesserlucas&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+</div>
 
 <h2>🌱 Atualmente Estudando:</h2>
 <ul>
@@ -50,4 +45,3 @@ lucas-busa-tesser-3a932a245
   <li>[Curiosidade 1 sobre você]</li>
   <li>[Curiosidade 2 sobre você]</li>
 </ul>
-
