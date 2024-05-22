@@ -11,7 +11,7 @@
   <li>LinkedIn: <a href="https://linkedin.com/in/seu-perfil">www.linkedin.com/in/
 lucas-busa-tesser-3a932a245
 </a></li>
-  <li>Twitter: <a href="https://twitter.com/Lucas56474078">@seu-usuario</a></li>
+  <li>Twitter: <a href="https://twitter.com/Lucas56474078">@Lucas56474078</a></li>
 </ul>
 
 <h2 align="center">Languages - Frameworks - Tools</h2>
