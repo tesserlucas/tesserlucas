@@ -5,11 +5,11 @@
 I am a computer engineering student passionate about technology and innovation. I love learning new programming languages ​​and exploring different areas of computing.
 </p>
 
-<h2>📫 How to Find Me::</h2>
+<h2>📫 How to Find Me:</h2>
 <ul>
   <li>Email: <a href="mailto:seu-email@example.com">lucastesser39@hotmail.com</a></li>
   <li>LinkedIn: <a href="https://linkedin.com/in/seu-perfil">www.linkedin.com/in/
-lucas-busa-tesser-3a932a245
+lucas-busa-tesser
 </a></li>
   <li>Twitter: <a href="https://twitter.com/Lucas56474078">@Lucas56474078</a></li>
 </ul>
