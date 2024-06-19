@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Lucas Tesser 👋</h1>
+<h1 align="center">Hi, I am Lucas Busa Tesser 👋</h1>
 <p align="center">
   <strong>Sobre Mim:</strong>
   <br>
@@ -10,8 +10,7 @@
 <h2>📫 Como me encontrar:</h2>
 <ul>
   <li>Email: <a href="mailto:seu-email@example.com">lucastesser39@hotmail.com</a></li>
-  <li>LinkedIn: <a href="https://linkedin.com/in/seu-perfil" target="_blank">www.linkedin.com/in/
-lucas-busa-tesser
+  <li>LinkedIn: <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">Lucas Busa Tesser
 </a></li>
   <li>Twitter: <a href="https://twitter.com/Lucas56474078" target="_blank">Lucas Tesser</a></li>
 </ul>
