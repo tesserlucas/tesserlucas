@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I am Lucas Busa Tesser 👋</h1>
+<h1 align="center">Olá, Eu sou Lucas Busa Tesser 👋</h1>
 <p align="center">
   <strong>Sobre Mim:</strong>
   <br>
