@@ -10,9 +10,9 @@
 <h2>📫 Como me encontrar:</h2>
 <ul>
   <li>Email: <a href="mailto:seu-email@example.com">lucastesser39@hotmail.com</a></li>
-  <li>LinkedIn: <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">Lucas Busa Tesser
+  <li>LinkedIn: <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank" rel="external">Lucas Busa Tesser
 </a></li>
-  <li>Twitter: <a href="https://twitter.com/Lucas56474078" target="_blank">Lucas Tesser</a></li>
+  <li>Twitter: <a href="https://twitter.com/Lucas56474078" target="_blank" rel="external">Lucas Tesser</a></li>
 </ul>
 <h2 align="center">Linguagens - Frameworks - Ferramentas</h2>
 <br/>
