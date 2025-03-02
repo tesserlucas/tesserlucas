@@ -8,7 +8,7 @@
 
 ## 🧭 Sobre Mim
 - 🎓 Sou estudante de Engenharia da Computação na **Universidade do Vale do Rio dos Sinos (UNISINOS)**.
-- 💻 Atualmente trabalho como estagiário de suporte técnico focado em redes e infraestrutura.
+- 💻 Atuei por 2 anos como estagiário de suporte técnico focado em redes e infraestrutura.
 - 🚀 Meu objetivo é migrar para o desenvolvimento **Front-End**/**Back-End**, buscando oportunidades e desafios nessa área.
 - 🎯 Tenho interesse em aprender novas tecnologias, metodologias ágeis e aprimorar minhas habilidades de programação e arquitetura de software.
 
